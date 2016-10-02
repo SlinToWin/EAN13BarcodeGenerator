@@ -1,0 +1,6 @@
+framework module Pods_EAN13Barcode_Tests {
+  umbrella header "Pods-EAN13Barcode_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

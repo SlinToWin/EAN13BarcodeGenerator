@@ -1,0 +1,16 @@
+PODS:
+  - EAN13Barcode (0.1.0)
+
+DEPENDENCIES:
+  - EAN13Barcode (from `../`)
+
+EXTERNAL SOURCES:
+  EAN13Barcode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EAN13Barcode: 382feb2a4f6b295b051ce044cd37e8235ff30649
+
+PODFILE CHECKSUM: bdb609d4dbcf0f61dbf88c2f46b3ac92641244cd
+
+COCOAPODS: 1.0.1

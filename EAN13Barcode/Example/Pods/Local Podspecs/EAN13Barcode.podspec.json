@@ -1,0 +1,22 @@
+{
+  "name": "EAN13Barcode",
+  "version": "0.1.0",
+  "summary": "A short description of EAN13Barcode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/EAN13Barcode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alexey Strokin": "alex.strok@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/EAN13Barcode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EAN13Barcode/Classes/**/*"
+}

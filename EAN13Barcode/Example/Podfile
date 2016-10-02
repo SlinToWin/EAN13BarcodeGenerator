@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EAN13Barcode_Example' do
+  pod 'EAN13Barcode', :path => '../'
+
+  target 'EAN13Barcode_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
